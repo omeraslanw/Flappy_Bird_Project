@@ -1,5 +1,10 @@
 # Flappy Bird Game
 
+![gif](https://img.itch.zone/aW1nLzc5OTg3OTQuZ2lm/original/85XVDm.gif)
+
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![.NET Framework](https://img.shields.io/badge/.NET%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
+
 Bu oyun, C# Forms ve .NET Framework kullanılarak oluşturulmuştur.
 
 ## Özellikler
@@ -22,7 +27,7 @@ Bu oyun, C# Forms ve .NET Framework kullanılarak oluşturulmuştur.
 ## Uygulama Görselleri
 
 ### Oynanış
-!(oynanış)[https://github.com/omeraslanw/Flappy_Bird_Project/blob/master/oynan%C4%B1%C5%9F.png]
+![oynanış](https://github.com/omeraslanw/Flappy_Bird_Project/blob/master/oynan%C4%B1%C5%9F.png)
 
 ### Bitiş Ekranı
-!(bitiş)[https://github.com/omeraslanw/Flappy_Bird_Project/blob/master/game%20over.png]
+![bitiş](https://github.com/omeraslanw/Flappy_Bird_Project/blob/master/game%20over.png)
